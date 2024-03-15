@@ -7,3 +7,4 @@ push: agregar archivos al repositorio remoto
 push: descargar archivos desde el repositorio remoto
 git branch: ver ramas
 git checkout "nombre": nueva rama
+git push --set-upstream origin prueba: añadir nueva rama 
