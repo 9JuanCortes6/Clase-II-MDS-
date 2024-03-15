@@ -6,5 +6,6 @@ git reset --hard "codigo hash": regresa a una version anterior del archivo Códi
 push: agregar archivos al repositorio remoto
 push: descargar archivos desde el repositorio remoto
 git branch: ver ramas
-git checkout "nombre": nueva rama
+git brach "nombre": crear nueva rama
+git checkout "nombre": cambio de rama
 git push --set-upstream origin prueba: añadir nueva rama 
