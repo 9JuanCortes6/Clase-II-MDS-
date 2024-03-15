@@ -9,3 +9,4 @@ git branch: ver ramas
 git brach "nombre": crear nueva rama
 git checkout "nombre": cambio de rama
 git push --set-upstream origin prueba: añadir nueva rama 
+git merge "nombre de la rama": combinar ramas
